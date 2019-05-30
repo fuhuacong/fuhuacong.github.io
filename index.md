@@ -7,6 +7,7 @@
 #### 邮箱：100881883@qq.com
 #### 地址：福建省福州市鼓楼区西湖公园附近
 
+
 ### 技能证书
 #### 精通MSSQL，熟悉JQUERY、AJAX、WEBSERVICE、XML、JSON、HTML、CSS；
 #### 熟悉常见设计模式，了解Entity Framework；
